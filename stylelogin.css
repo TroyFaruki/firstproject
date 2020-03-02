@@ -1,0 +1,10 @@
+body {
+  background: url('../blitz/images/gray-and-brown-houses-beside-pathway-814830.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.css-selector {
+font-family: 'Trade Winds', serif;
+}

@@ -1,2 +1,2 @@
-# firstproject
-First project for CIS 3110
+# March project
+Project 1 & 2 for CIS 3110

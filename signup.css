@@ -6,9 +6,12 @@ body{
   background-color: whitesmoke;
   font-family: 'Anton', sans-serif;
 }
-.signUpLabel {
+.signUp {
   width: 14%;
 }
 .form-label-group{
   width: 14%;
+}
+.form-signin {
+  text-align: center;
 }
